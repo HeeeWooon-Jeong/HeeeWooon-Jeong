@@ -37,6 +37,6 @@ Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=heewoon9210)](https:/
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeeeWooon-Jeong&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeeeWooon-Jeong&layout=compact)](https://github.com/HeeeWooon-Jeong/github-readme-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeeeWooon-Jeong&layout=compact&theme=dracula)
 
