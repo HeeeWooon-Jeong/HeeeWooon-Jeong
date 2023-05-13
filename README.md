@@ -12,9 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- ![image](https://github.com/HeeeWooon-Jeong/HeeeWooon-Jeong/assets/131336578/6b0e172e-884b-458a-9bff-019c20804a68) -->
 
-### Platforms & Languages
-<div align=center><h1>📚 STACKS</h1></div>
+
+<div align=center><h1>STACKS</h1></div>
 
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
@@ -71,7 +72,7 @@ Here are some ideas to get you started:
 <!-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white) -->
 <!-- ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white) -->
 
-<div align=center><h1>📚 Tools</h1></div>
+<div align=center><h1>Tools</h1></div>
 <div align=center>
   
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
