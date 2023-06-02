@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 https://velog.io/@heewoon9210 
 <br>
-https://www.notion.so/d7808a6d59d643a789cc70df33b25246?v=dff1bc2da5954323ae0b239f2a3a59d2
+01099923132.notion.site
 <div align=center><h1>STACKS</h1></div>
 
 <div align=center> 
