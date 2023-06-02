@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 -->
 <!-- ![image](https://github.com/HeeeWooon-Jeong/HeeeWooon-Jeong/assets/131336578/6b0e172e-884b-458a-9bff-019c20804a68) -->
 
-https://velog.io/@heewoon9210
+https://velog.io/@heewoon9210 
+<br>
 https://www.notion.so/d7808a6d59d643a789cc70df33b25246?v=dff1bc2da5954323ae0b239f2a3a59d2
 <div align=center><h1>STACKS</h1></div>
 
