@@ -88,8 +88,8 @@ https://velog.io/@heewoon9210
 [![Solved.ac
 Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=heewoon9210)](https://solved.ac/heewoon9210)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeeeWooon-Jeong&show_icons=true&theme=radical)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeeeWooon-Jeong&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeeeWooon-Jeong&layout=compact&theme=dracula)
 
